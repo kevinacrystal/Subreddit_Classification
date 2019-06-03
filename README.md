@@ -18,9 +18,9 @@ In order to work with the text data, various pre-processing techniques, includin
 Additionally, various hyperparameters of the classification models were tuned using both GridSeachCV and direct substitution.
 
 ### Contents:
-- [01_Data_Acquisition](https://git.generalassemb.ly/kevincrystal/DSI-labs-and-projects/blob/master/projects/project_3/01_Data_Acquisition.ipynb)
-- [02_NLP_CountVectorizer_and_Modeling](https://git.generalassemb.ly/kevincrystal/DSI-labs-and-projects/blob/master/projects/project_3/02_NLP_CountVectorizer_and_Modeling.ipynb)
-- [03_NLP_Tfidf_and_Modeling](https://git.generalassemb.ly/kevincrystal/DSI-labs-and-projects/blob/master/projects/project_3/03_NLP_Tfidf_and_Modeling.ipynb)
+- [01_Data_Acquisition](https://github.com/kevinacrystal/Subreddit_Classification/blob/master/01_Data_Acquisition.ipynb)
+- [02_NLP_CountVectorizer_and_Modeling](https://github.com/kevinacrystal/Subreddit_Classification/blob/master/02_NLP_CountVectorizer_and_Modeling.ipynb)
+- [03_NLP_Tfidf_and_Modeling](https://github.com/kevinacrystal/Subreddit_Classification/blob/master/03_NLP_Tfidf_and_Modeling.ipynb)
 
 
 ## Conclusion
